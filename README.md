@@ -1,0 +1,9 @@
+index.html
+about.html
+projects.html
+gallery.html
+contact.html
+robots.txt
+sitemap.xml
+images/
+media/
